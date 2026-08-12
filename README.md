@@ -21,7 +21,7 @@ The **Smart Cafeteria Ordering Mobile App** is a Human-Computer Interaction (HCI
 | Preston Njihia         | C025-01-0615/2023         |
 | Edwin Weru             | C025-01-2089/2023         |
 | Edward Mwangi          | C025-01-0608/2023         |
-| Keter Njeri            | C025-01-0622/2023         |
+| Keter Jerry            | C025-01-0622/2023         |
 
 ---
 
